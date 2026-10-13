@@ -1,0 +1,14 @@
+gitignore
+# Historial y carpetas generadas por Altium
+History/
+__History/
+Project Logs for */
+Project Outputs for */
+
+# Previsualizaciones y logs temporales
+*.SchDocPreview
+*.PcbDocPreview
+*.CompileLog
+*.Annotation
+*.LOG
+*.FileSummary
